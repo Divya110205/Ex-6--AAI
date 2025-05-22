@@ -4,8 +4,9 @@
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 <H3>Aim: 
+	
 To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
- <BR>
+
 <h3>Algorithm:</h3>
 Step 1: Import the nltk library.<br>
 Step 2: Download the 'punkt', 'wordnet', and 'averaged_perceptron_tagger' resources.<br>
