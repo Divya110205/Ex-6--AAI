@@ -2,8 +2,9 @@
 <H3>ENTER YOUR REGISTER NO: 212222230034</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
-<H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
-<H3>Aim: to perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
+<H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
+<H3>Aim: 
+To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
 <h3>Algorithm:</h3>
 Step 1: Import the nltk library.<br>
@@ -55,6 +56,7 @@ print ( "Synonyms : " ,set (synonyms) )
 print ( "Antonyms : " ,set(antonyms) )
 ```
 <H3>Output</H3>
+
 ![image](https://github.com/user-attachments/assets/115e2b31-6fa0-4395-a69f-d048aba4f841)
 
 ![image](https://github.com/user-attachments/assets/eab2bfa8-25ed-48f2-bcf6-4fbd40232b15)
